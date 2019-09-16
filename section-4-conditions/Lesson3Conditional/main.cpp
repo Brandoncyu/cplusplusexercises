@@ -12,5 +12,5 @@ int main()
 
     cout << message << endl;
 
-    cout << ((7 < 4) ? 7 : 4) << endl;
+    cout <<s ((7 < 4) ? 7 : 4) << endl;
 }
