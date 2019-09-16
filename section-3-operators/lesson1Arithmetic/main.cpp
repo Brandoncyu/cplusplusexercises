@@ -41,7 +41,7 @@ int main()
 
     //POST incrementation
     int f = 1;
-    cout << f-- << endl;
+    cout << f--s << endl;
     //console logs 1
 
     cout << f << endl;
