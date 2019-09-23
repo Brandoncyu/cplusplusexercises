@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569201695 source:/Users/admin/Desktop/Tech/CPlusPlusExercises/section-11-structures-and-classes/Lesson4Constant/main.cpp
+	<iostream>
+	"position.h"
+
+1569201690 /Users/admin/Desktop/Tech/CPlusPlusExercises/section-11-structures-and-classes/Lesson4Constant/position.h
+
+1569201675 source:/Users/admin/Desktop/Tech/CPlusPlusExercises/section-11-structures-and-classes/Lesson4Constant/position.cpp
+	"position.h"
+	<iostream>
+
