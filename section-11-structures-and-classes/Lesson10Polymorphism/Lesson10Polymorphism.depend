@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569216188 source:/Users/admin/Desktop/Tech/CPlusPlusExercises/section-11-structures-and-classes/Lesson10Polymorphism/farm.cpp
+	"farm.h"
+
+1569216199 /Users/admin/Desktop/Tech/CPlusPlusExercises/section-11-structures-and-classes/Lesson10Polymorphism/farm.h
+	<iostream>
+
+1569216032 source:/Users/admin/Desktop/Tech/CPlusPlusExercises/section-11-structures-and-classes/Lesson10Polymorphism/main.cpp
+	<iostream>
+	"farm.h"
+
