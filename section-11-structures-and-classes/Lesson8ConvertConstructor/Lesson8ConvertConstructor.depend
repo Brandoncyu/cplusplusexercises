@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1569209388 source:/Users/admin/Desktop/Tech/CPlusPlusExercises/section-11-structures-and-classes/Lesson8ConvertConstructor/integer.cpp
+	"integer.h"
+
+1569209362 /Users/admin/Desktop/Tech/CPlusPlusExercises/section-11-structures-and-classes/Lesson8ConvertConstructor/integer.h
+
+1569209415 source:/Users/admin/Desktop/Tech/CPlusPlusExercises/section-11-structures-and-classes/Lesson8ConvertConstructor/main.cpp
+	<iostream>
+	"integer.h"
+
