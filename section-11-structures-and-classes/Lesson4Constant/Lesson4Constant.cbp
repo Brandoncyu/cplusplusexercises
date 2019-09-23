@@ -33,6 +33,8 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="main.cpp" />
+		<Unit filename="position.cpp" />
+		<Unit filename="position.h" />
 		<Extensions>
 			<envvars />
 			<code_completion />
