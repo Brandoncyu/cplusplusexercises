@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569215232 source:/Users/admin/Desktop/Tech/CPlusPlusExercises/section-11-structures-and-classes/Lesson9Inheritance/point.cpp
+	<iostream>
+	"point.h"
+
+1569215336 /Users/admin/Desktop/Tech/CPlusPlusExercises/section-11-structures-and-classes/Lesson9Inheritance/point.h
+
+1569215325 source:/Users/admin/Desktop/Tech/CPlusPlusExercises/section-11-structures-and-classes/Lesson9Inheritance/main.cpp
+	<iostream>
+	"point.h"
+
