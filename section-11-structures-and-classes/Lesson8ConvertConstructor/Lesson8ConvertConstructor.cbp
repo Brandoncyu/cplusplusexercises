@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="integer.cpp" />
+		<Unit filename="integer.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<envvars />

@@ -6,7 +6,7 @@ Animal::Animal()
 }
 Animal::~Animal()
 {
-
+    cout << "im from the base class" <<endl;
 }
 Dog::Dog()
 {
@@ -15,7 +15,7 @@ Dog::Dog()
 }
 Dog::~Dog()
 {
-
+    cout << "im from the sub-class" <<endl;
 }
 Cat::Cat()
 {
@@ -24,7 +24,7 @@ Cat::Cat()
 }
 Cat::~Cat()
 {
-
+    cout << "im from the sub-class" <<endl;
 }
 Cow::Cow()
 {
@@ -33,5 +33,5 @@ Cow::Cow()
 }
 Cow::~Cow()
 {
-
+    cout << "im from the sub-class" <<endl;
 }
