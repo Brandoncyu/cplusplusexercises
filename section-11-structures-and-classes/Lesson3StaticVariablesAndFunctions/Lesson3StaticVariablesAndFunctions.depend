@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1569200253 source:/Users/admin/Desktop/Tech/CPlusPlusExercises/section-11-structures-and-classes/Lesson3StaticVariablesAndFunctions/user.cpp
+	"user.h"
+
+1569200491 /Users/admin/Desktop/Tech/CPlusPlusExercises/section-11-structures-and-classes/Lesson3StaticVariablesAndFunctions/user.h
+
+1569200095 source:/Users/admin/Desktop/Tech/CPlusPlusExercises/section-11-structures-and-classes/Lesson3StaticVariablesAndFunctions/main.cpp
+	<iostream>
+	"user.h"
+
