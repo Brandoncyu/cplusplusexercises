@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569197786 source:/Users/admin/Desktop/Tech/CPlusPlusExercises/section-11-structures-and-classes/Lesson2Classes/main.cpp
+	<iostream>
+	"people.h"
+
+1569197891 /Users/admin/Desktop/Tech/CPlusPlusExercises/section-11-structures-and-classes/Lesson2Classes/people.h
+
+1569197991 source:/Users/admin/Desktop/Tech/CPlusPlusExercises/section-11-structures-and-classes/Lesson2Classes/people.cpp
+	"people.h"
+	<iostream>
+
