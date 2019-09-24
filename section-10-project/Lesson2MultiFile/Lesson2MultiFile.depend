@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1569296144 source:/Users/admin/Desktop/Tech/CPlusPlusExercises/section-10-project/Lesson2MultiFile/main.cpp
+	<iostream>
+	"ourfirstlibrary.h"
+
+1569296358 /Users/admin/Desktop/Tech/CPlusPlusExercises/section-10-project/Lesson2MultiFile/ourfirstlibrary.h
+
