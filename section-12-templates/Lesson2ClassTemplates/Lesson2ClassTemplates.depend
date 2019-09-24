@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1569300091 source:/Users/admin/Desktop/Tech/CPlusPlusExercises/section-12-templates/Lesson2ClassTemplates/point.cpp
+	<iostream>
+	"point.h"
+
+1569301435 /Users/admin/Desktop/Tech/CPlusPlusExercises/section-12-templates/Lesson2ClassTemplates/point.h
+	<iostream>
+
+1569301441 source:/Users/admin/Desktop/Tech/CPlusPlusExercises/section-12-templates/Lesson2ClassTemplates/main.cpp
+	<iostream>
+	"point.h"
+
